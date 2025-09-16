@@ -12,8 +12,6 @@ This is a self-contained, client-side web application for compressing PDF files.
 
 This project is licensed under the **GNU Affero General Public License v3.0 (AGPLv3)**. A copy of the license is included in the `LICENSE` file.
 
-In simple terms, this license's main condition is that if you use this code as part of a service that users interact with over a network, you must also make the complete and corresponding source code of your modified version available to those users.
-
 ## Acknowledgements
 
 * **Ghostscript:** The PDF/PostScript interpreter maintained by [Artifex Software, Inc.](https://artifex.com/).
