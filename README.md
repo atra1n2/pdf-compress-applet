@@ -8,8 +8,6 @@ This is a self-contained, client-side web application for compressing PDF files.
 * **Progress Tracking:** Displays elapsed time and an Estimated Time Remaining (ETR) for large, multi-chunk files.
 * **Background Processing:** Runs the heavy Ghostscript process in a Web Worker to keep the user interface fully responsive during compression.
 
-## How to Use
-
 ## License
 
 This project is licensed under the **GNU Affero General Public License v3.0 (AGPLv3)**. A copy of the license is included in the `LICENSE` file.
